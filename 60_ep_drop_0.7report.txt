@@ -1,0 +1,18 @@
+Hyperparameters
+=========================
+
+learning_rate: 0.01
+momentum: 0.8
+decay: 0.0
+batch size: 128
+no. epochs: 60
+dropout: 0.7
+-------------------------
+
+None
+
+val_acc: 1.0
+val_loss: 0.09809628129005432
+train_acc: 0.9506173133850098
+train_loss: 0.281507890934896
+train/val loss ratio: 2.8697101177823874
